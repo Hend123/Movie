@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="sort_app_by_most_popular">Sort App By Most Popular</string>
+    <string name="sort_app_by_top_rated">Sort App By Top Rated</string>
+    <string name="release_date">Release Date :</string>
+    <string name="average_rate">Average Rate :</string>
+    <string name="todo">TODO</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="logo_image">Logo Image</string>
+</resources>
